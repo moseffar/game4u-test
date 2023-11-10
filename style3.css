@@ -1,0 +1,14 @@
+h2 {
+	color: pink;
+}
+body,
+html {
+	min-height: 100%;
+}
+
+body {
+	background-image: url(background3.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
